@@ -75,7 +75,7 @@ p{
 }
 
 iframe {
-    border: none;
+    border: 0px;
 }
 
 .link-section {
@@ -112,7 +112,7 @@ li :hover {
 }
 
 footer{
-    background: #e93f33;
+    background: #e93f33af;
     display: flex;
     justify-content: center;
     align-items: center;
