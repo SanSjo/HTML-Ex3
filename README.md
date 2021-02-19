@@ -1,1 +1,1 @@
-# HTML-CSS-Ex7-8
+# HTML-CSS-Ex6-7
